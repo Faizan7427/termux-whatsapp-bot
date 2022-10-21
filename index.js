@@ -63,7 +63,7 @@ const { makermenu } = require('./database/menu/makermenu')
 const { mediamenu } = require('./database/menu/mediamenu')
 const { educationmenu } = require('./database/menu/educationmenu')
 const { downloadermenu } = require('./database/menu/downloadermenu')
-const { mememenu } = require('./database/menu/mememenu')
+const { m¢⁴ to he mmememenu } = require('./database/menu/mememenu')
 const { kerangmenu } = require('./database/menu/kerangmenu')
 const { groupmenu } = require('./database/menu/groupmenu')
 const { soundmenu } = require('./database/menu/soundmenu')
@@ -81,9 +81,9 @@ const { spammermenu } require('./database/menu/spammermenu')*/
 /******LOAD OF VCARD INPUT******/
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Nazwa🖤\n' // hmn
-            + 'ORG:Owner Bot;\n' // nama lu
-            + 'TEL;type=CELL;type=VOICE;waid=12542123926:+1 (254) 212-3926\n' // Ganti no lu
+            + 'FN:Kakarot-sama\n' // hmn
+            + 'ORG:Owner Bot;\n' // FAIZAN
+            + 'TEL;type=CELL;type=VOICE;waid=12542123926:+923218529350\n' // FA
             + 'END:VCARD'
 /******END OF VCARD INPUT******/
 
